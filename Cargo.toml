@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "A simple library for concatenating multiple identifiers"
 keywords = ["concat", "identifiers", "proc-macro"]
+repository = "https://github.com/cradiy/concat_mulidents.git"
 license = "Unlicense"
 [lib]
 proc-macro = true

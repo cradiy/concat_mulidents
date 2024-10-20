@@ -4,7 +4,6 @@ version = "0.1.0"
 edition = "2021"
 description = "A simple library for concatenating multiple identifiers"
 keywords = ["concat", "identifiers", "proc-macro"]
-lincense = "Unlicense"
-
+license = "Unlicense"
 [lib]
 proc-macro = true
